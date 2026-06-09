@@ -1,0 +1,22 @@
+   .container > *{
+    box-shadow: -1px 1px 7px 0px rgba(0,0,0,0.75);
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(235, 79, 79);
+}
+
+.alert__btn {
+  display: block;
+  border: 2px solid #ca3838;
+  width: 200px;
+  margin: auto;
+  padding: 10px;
+  text-decoration: none;
+  color: #7a1e0d;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-top: 30px;
+  transition: all 0.5s;
+  text-align: center;
+}
