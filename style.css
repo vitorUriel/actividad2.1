@@ -1,0 +1,29 @@
+body {
+    background-color: #ffd6e7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.producto {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h2 {
+    color: hotpink;
+}
+
+z    background-color: hotpink;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
