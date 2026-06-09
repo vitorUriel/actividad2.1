@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(187, 217, 205);
+    align-items: center;
+    marg
+}
+
+.col-4 {
+    background-color: rgb(94, 255, 0, 0.771);
+    border: 1px solid black;
+}
+
+.row {
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.progress {
+    border: 1px solid;
+    margin: 5px;
+}
+
+span {
+    align-items: center;
+}
+
+.contenedor {
+    display:flow-root ;
+}
