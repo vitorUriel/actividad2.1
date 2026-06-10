@@ -7,3 +7,6 @@ function comprar() {
             let color = colores[Math.floor(Math.random() * colores.length)];
             document.body.style.backgroundColor = color;
         });
+document.getElementById('botonAlert').addEventListener('click', ()=>{
+            alert('Alerta de Nosotros')
+        })
