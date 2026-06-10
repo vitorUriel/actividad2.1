@@ -83,3 +83,30 @@ img{
   transition: all 0.5s;
   text-align: center;
 }
+    background-color: rgb(187, 217, 205);
+    align-items: center;
+    transition: background-color 0.4s ease; /* Transición suave para el cambio de color */
+}
+
+.col-4 {
+    background-color: rgba(94, 255, 0, 0.771);
+    border: 1px;
+}
+
+.row {
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.progress {
+    border: 1px solid;
+    margin: 5px;
+}
+
+span {
+    align-items: center;
+}
+
